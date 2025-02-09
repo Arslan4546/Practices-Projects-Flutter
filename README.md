@@ -1,6 +1,5 @@
 # Flutter Practices Projects
-
-    This repository showcases my Flutter projects, including various implementations and experiments in Flutter features.
+This repository showcases my Flutter projects, including various implementations and experiments in Flutter features.
 
 
 ## 🛠 Installation & Setup  
