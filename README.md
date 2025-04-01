@@ -27,7 +27,4 @@ I’d love to connect and discuss potential projects, collaboration opportunitie
 
 ---
 
-Thank you for visiting! Let’s build something amazing together with Flutter! 🌟 
-
-
-
+Thank you for visiting! Let’s build something amazing together with Flutter!
